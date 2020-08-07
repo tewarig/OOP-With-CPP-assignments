@@ -1,0 +1,40 @@
+enter number of rows and Column of sqaure 
+*********
+*       *
+*       *
+*       *
+*       *
+*       *
+*       *
+*       *
+*********
+enter number of rows and Column of Circle 
+  ***  
+ *   * 
+*     *
+*     *
+*     *
+*     *
+*     *
+ *   * 
+  ***  
+enter number of rows and Column of Arrow 
+   *  
+ *  * * 
+* *  * * *
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+enter number of rows and Column of Dimond 
+    *    
+   * *   
+  *   *  
+ *     * 
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
