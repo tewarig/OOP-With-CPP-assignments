@@ -1,0 +1,4 @@
+Enter Day you want to celebrate Binod Day 
+Form today!!! Binod day would be celebrated on 7/8/2020
+ enter a date but this time enter worng month to check the program.
+please enter a vaild month, the value of month us reseted to 123/1/2020
