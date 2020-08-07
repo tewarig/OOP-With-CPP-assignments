@@ -1,0 +1,2 @@
+perimeter:30
+Area:50
