@@ -1,0 +1,10 @@
+enter the amount you want to start binod account with? 
+enter the amount you want to add in binod's account? 
+600
+enter the amount you want to removein binod's account? 
+500
+enter the amount you want to start Gaurav account with? 
+enter the amount you want to add in Gaurav's account? 
+700
+enter the amount you want to removein Gaurav's account? 
+600
