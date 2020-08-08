@@ -1,0 +1,35 @@
+enter the value of the points
+it is a Rectangle
+Length =>4
+Width => 3
+it is not a Sqaure
+Area => 12
+perimeter=>14
+enter the element you want body to be made of...
+enter the element you want to display in perimeter 
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+ 99999                    
+ 9aaa9                    
+ 9aaa9                    
+ 99999                    
+                          
