@@ -1,4 +1,4 @@
-//gaurav tewari
+//program1
 #include<iostream>
 using namespace std;
 void square(int r, int c)
