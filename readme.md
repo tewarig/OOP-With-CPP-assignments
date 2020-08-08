@@ -6,6 +6,9 @@ answers to the cs assignment in c++
 <a href="https://drive.google.com/drive/folders/1VSXdV2ZoATV5mx-v4BtMhzj5usGddg9I"> link to question papaer. </a>
 <br>
 <hr>
-# Gaurav Tewari
-# Roll NO:- 30
-# section :- F
+Gaurav Tewari  
+<br>
+Roll NO:- 30
+<br>
+ section :- F
+<br>
