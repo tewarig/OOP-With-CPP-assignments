@@ -1,3 +1,4 @@
+//answer 3
 #include<iostream>
 #include<stdio.h>
 using namespace std;
