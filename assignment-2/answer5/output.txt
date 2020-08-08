@@ -1,0 +1,7 @@
+enter the value of the points
+it is a Rectangle
+Length =>4
+Width => 3
+it is not a Sqaure
+Area => 12
+perimeter=>14
