@@ -79,7 +79,7 @@ int main() {
 	cout << "finding area of same Square using Rectangle's formula " << cool.areaRectangle(5, 5) << "\n";
 	cout << "finding area of same Square using Paralleologram 's formula " << cool.areaPalleogram(5, 5) << "\n";
 	cout << "finding area of same Square using Trapezoid 's formula " << cool.areaTrapezoid(5, 5, 5) << "\n";
-	cout << "thus the hierarchy is proved"
+	cout << "thus the hierarchy is proved";
 
 }
 
