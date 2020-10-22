@@ -1,8 +1,6 @@
 <img src="./q3-gt.jpeg"/>
 #code 
 ```
-
-
 #include<iostream>
 using namespace std;
 
@@ -82,6 +80,4 @@ int main() {
 	cout << "thus the hierarchy is proved";
 
 }
-
-
 ```
